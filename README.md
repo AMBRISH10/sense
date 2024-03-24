@@ -8,10 +8,10 @@
 
 ## devoloper's_information
 
-NAME:AMBRISH A
-ambrishanandaranis@gmail.com
-github profile:@AMBRISH10
-Resume : https://drive.google.com/file/d/1jNPH1CAK_dy4oyxb6IacMWTmTa70Wmhg/view?usp=sharing
+# NAME:AMBRISH A
+# ambrishanandaranis@gmail.com
+# github profile:@AMBRISH10
+# Resume : https://drive.google.com/file/d/1jNPH1CAK_dy4oyxb6IacMWTmTa70Wmhg/view?usp=sharing
 
 
 <!-- 
